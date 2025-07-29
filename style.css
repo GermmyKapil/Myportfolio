@@ -1,0 +1,279 @@
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', 'Poppins', sans-serif;
+  line-height: 1.6;
+  background-color: #0e0f12;
+  color: #f0f0f0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+header {
+  background: #121417;
+  padding: 20px 0;
+  box-shadow: 0 2px 10px rgba(0, 255, 255, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: 700;
+  color: #00e0ff;
+}
+
+header nav {
+  display: flex;
+  gap: 20px;
+}
+
+header nav a {
+  color: #f0f0f0;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+header nav a:hover {
+  color: #ffe600;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Hero */
+.hero {
+  background-image: url('assets/tech-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+}
+
+.hero h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.hero span {
+  color: #ffe600;
+}
+
+/* Sections */
+section {
+  padding: 60px 0;
+}
+
+.about,
+.education,
+.skills,
+.interests,
+.projects,
+.contact {
+  background-color: #181a1f;
+  margin: 20px 0;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 2px 10px rgba(0, 224, 255, 0.05);
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #00e0ff;
+  border-left: 5px solid #ffe600;
+  padding-left: 10px;
+}
+
+/* About image */
+.about img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #00e0ff;
+  margin-bottom: 20px;
+}
+
+/* Skill Bars */
+.skill-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.skill-bar {
+  margin-bottom: 20px;
+}
+
+.bar {
+  width: 100%;
+  height: 10px;
+  background-color: #2b2f38;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.fill {
+  height: 100%;
+  text-align: right;
+  padding-right: 5px;
+  color: white;
+  font-size: 12px;
+  line-height: 10px;
+}
+
+.fill.html {
+  width: 90%;
+  background-color: #00bfff;
+}
+
+.fill.css {
+  width: 80%;
+  background-color: #ffcb05;
+}
+
+.fill.js {
+  width: 60%;
+  background-color: #50fa7b;
+}
+
+/* Projects */
+.project-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.project img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+.btn-download {
+  display: inline-block;
+  padding: 12px 20px;
+  margin-top: 10px;
+  background-color: #00e0ff;
+  color: #0e0f12;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+
+.btn-download:hover {
+  background-color: #ffe600;
+  color: #121417;
+}
+
+/* Contact Form */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+input,
+textarea {
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #2b2f38;
+  color: #f0f0f0;
+  resize: vertical;
+}
+
+button[type="submit"] {
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #00e0ff;
+  color: #0e0f12;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+  background-color: #ffe600;
+  color: #121417;
+}
+
+/* Footer */
+footer {
+  background-color: #121417;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 14px;
+  color: #aaa;
+}
+
+.social-links {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.social-links a {
+  color: #f0f0f0;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #ffe600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  header nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .hero h2 {
+    font-size: 28px;
+  }
+
+  .container {
+    padding: 0 10px;
+  }
+
+  .skill-list {
+    flex-direction: column;
+  }
+}
