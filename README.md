@@ -31,8 +31,8 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 
 ## 🖥️ Live Demo
 
-- 🌐 Live site: [your-live-link.netlify.app](https://your-live-link.netlify.app)  
-- 🔗 GitHub Repo: [github.com/germano/portfolio](https://github.com/germano/portfolio)
+- 🌐 Live site: [your-live-link.netlify.app](https://germmykapil.github.io/Myportfolio/)  
+- 🔗 GitHub Repo: [github.com/germano/portfolio]([https://github.com/germano/portfolio](https://github.com/GermmyKapil)
 
 (Replace these links with your actual live deployment and repo if different.)
 
@@ -71,9 +71,6 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 │ └── screenshot-mobile.png
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -82,9 +79,9 @@ Edit
 If you’re interested in collaborating, hiring, or just want to say hi — feel free to reach out via:
 
 - 📧 Email: germmykapil@gmail.com  
-- 🐙 GitHub: [github.com/germano](https://github.com/germano)  
-- 🐦 X (formerly Twitter): [x.com/germano](https://x.com/germano)  
-- 💼 LinkedIn: [linkedin.com/in/germano](https://linkedin.com/in/germano)
+- 🐙 GitHub: [github.com/germano](https://github.com/GermmyKapil)  
+- 🐦 X (formerly Twitter): [x.com/germano]([https://x.com/germano](https://x.com/Katala46213397?t=A-J4q3QLoQUxQlazJAJtXQ&s=09))  
+- 💼 LinkedIn: [linkedin.com/in/germano]([https://linkedin.com/in/germano](https://www.linkedin.com/in/germano-katalahali?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
