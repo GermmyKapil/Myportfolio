@@ -38,10 +38,11 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 
 ## 📸 Screenshots
 
-| Desktop View                        | Mobile View                       |
+| Desktop View                     
 |------------------------------------|-----------------------------------|
 |![Desktop][(https://www.canva.com/design/DAGunnhH6Gw/mHnra64AsS1L017K4gHL2A/edit?utm_content=DAGunnhH6Gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]|
-
+| Mobile View                      
+|------------------------------------|-----------------------------------|
 |![Mobile][(https://www.canva.com/design/DAGunrr84FM/QBO3zPq-ylS_m9voIRVw5g/edit?utm_content=DAGunrr84FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]|
 
 ---
