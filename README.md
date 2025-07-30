@@ -34,8 +34,6 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 - 🌐 Live site: [your-live-link.netlify.app](https://germmykapil.github.io/Myportfolio/)  
 - 🔗 GitHub Repo: [github.com/germano/portfolio]([https://github.com/germano/portfolio](https://github.com/GermmyKapil)
 
-(Replace these links with your actual live deployment and repo if different.)
-
 ---
 
 ## 📸 Screenshots
@@ -44,7 +42,6 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 |------------------------------------|-----------------------------------|
 | ![Desktop](assets/screenshot-desktop.png) | ![Mobile](assets/screenshot-mobile.png) |
 
-(Add your actual screenshots in the assets folder and update the filenames.)
 
 ---
 
