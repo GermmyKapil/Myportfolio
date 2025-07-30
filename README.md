@@ -31,8 +31,8 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 
 ## 🖥️ Live Demo
 
-- 🌐 Live site: [your-live-link.netlify.app](https://germmykapil.github.io/Myportfolio/)  
-- 🔗 GitHub Repo: [github.com/germano/portfolio]([https://github.com/germano/portfolio](https://github.com/GermmyKapil)
+- 🌐 Live site: [your-live-link.netlify.app][(https://germmykapil.github.io/Myportfolio/)]
+- 🔗 GitHub Repo: [github.com/germano/portfolio][([https://github.com/germano/portfolio](https://github.com/GermmyKapil)]
 
 ---
 
@@ -40,8 +40,9 @@ This portfolio demonstrates my capabilities using HTML and CSS. It highlights ke
 
 | Desktop View                        | Mobile View                       |
 |------------------------------------|-----------------------------------|
-| ![Desktop](https://www.canva.com/design/DAGunnhH6Gw/mHnra64AsS1L017K4gHL2A/edit?utm_content=DAGunnhH6Gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGunnhH6Gw/mHnra64AsS1L017K4gHL2A/edit?utm_content=DAGunnhH6Gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | ![Mobile](https://www.canva.com/design/DAGunrr84FM/QBO3zPq-ylS_m9voIRVw5g/edit?utm_content=DAGunrr84FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-
+| ![Desktop][(https://www.canva.com/design/DAGunnhH6Gw/mHnra64AsS1L017K4gHL2A/edit?utm_content=DAGunnhH6Gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)] 
+| ![Mobile][(
+https://www.canva.com/design/DAGunrr84FM/QBO3zPq-ylS_m9voIRVw5g/edit?utm_content=DAGunrr84FM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 ---
 
